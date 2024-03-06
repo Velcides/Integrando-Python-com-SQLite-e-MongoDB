@@ -8,7 +8,7 @@ import pymongo
 import datetime
 
 client = pymongo.MongoClient(
-    "mongodb+srv://pymongo:pymongo@cluster0.pifcgtb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://"
     )
 
 # Cria o schema test
