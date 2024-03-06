@@ -7,6 +7,7 @@ import pprint
 import pymongo
 import datetime
 
+# Conexão com o Banco de Dados
 client = pymongo.MongoClient(
     "mongodb+srv://"
     )
